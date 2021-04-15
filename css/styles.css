@@ -1,0 +1,33 @@
+body{
+    
+    background: rgb(252,70,107);
+background: radial-gradient(circle, rgba(252,70,107,0.3253676470588235) 3%, rgba(63,94,251,1) 95%);
+}
+nav{
+    font-size: 3pc;
+    color:darkgreen;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: blanchedalmond;
+    font-size: 3pc;
+}
+li{
+    font-size: 0.9pc;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+ol{
+    font-size: 0.9pc;
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+p {
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-size:16px;
+    font-style:italic
+    }
