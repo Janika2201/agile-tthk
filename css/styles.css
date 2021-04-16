@@ -24,10 +24,11 @@ ol{
     font-size: 0.9pc;
     text-align: center;
     font-family: "Lucida Console", "Courier New", monospace;
+    font-weight:bold;
 }
 p {
-    font-family:'Times New Roman', Times, serif;
+    font-family: "Lucida Console", "Courier New", monospace;
     font-weight:bold;
-    font-size:16px;
-    font-style:italic
+    font-size:15px;
+    background-color: white;
     }
