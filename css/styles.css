@@ -31,4 +31,7 @@ p {
     font-weight:bold;
     font-size:15px;
     background-color: white;
-    }
+}
+td{
+    text-align: center;
+}
